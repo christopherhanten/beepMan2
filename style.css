@@ -1,9 +1,14 @@
-h2 {
-  color: red;
+/*title {*/
+  background-color: black;
 }
-body {
+
+h2 {
+  background-color: black;
 
 }
+
+
+
 .topsy {
   background: grey;
   width: auto;
@@ -14,13 +19,16 @@ body {
   height: 300px;
   width: 1200px;
   margin: 0 auto;
-  color: black;
+  color: #800020;
   border:  grey solid 3px;
   text-align: center;
-
+  background-color: null;*/
 }
 .active {
-  background-color: white;
+  background-color: #blue;
   /*text-align: right;*/
-
 }
+.active2 {
+  background-color: #blue;
+}
+;
