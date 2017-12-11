@@ -4,18 +4,13 @@
 
 h2 {
   background-color: black;
-
 }
-
-
-
 .topsy {
   background: grey;
   width: auto;
   margin: 0px;
 }
 .Racetrack td {
-
   height: 300px;
   width: 1200px;
   margin: 0 auto;
@@ -24,11 +19,12 @@ h2 {
   text-align: center;
   background-color: null;*/
 }
-.active {
-  background-color: #blue;
+.start {
+  background-color: #cc6666;
   /*text-align: right;*/
 }
-.active2 {
-  background-color: #blue;
+.start2 {
+  background-color: #7f1ae5;
 }
+
 ;
