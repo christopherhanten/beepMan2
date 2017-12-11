@@ -1,3 +1,17 @@
 h2 {
   color: red;
 }
+body {
+
+}
+.topsy {
+  background: grey;
+  width: auto;
+  margin: 0px;
+}
+.Racetrack {
+  background-color: black;
+  width: 960px
+  color: black;
+  border: 15px;
+}
