@@ -27,3 +27,6 @@ What I need to do is:
 6. make my players cross the finish line
 7. alert me to the fact that there is a winner
 8. annouce who the winner is 
+
+Ok, I totally have to go to bed. It's warming up a little. I'll ask for some instructor/student help tomorrow.
+I need it to click like b-legit and fourty water.
