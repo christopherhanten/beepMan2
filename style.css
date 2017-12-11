@@ -9,9 +9,18 @@ body {
   width: auto;
   margin: 0px;
 }
-.Racetrack {
-  background-color: black;
-  width: 960px
+.Racetrack td {
+
+  height: 300px;
+  width: 1200px;
+  margin: 0 auto;
   color: black;
-  border: 15px;
+  border:  grey solid 3px;
+  text-align: center;
+
+}
+.active {
+  background-color: white;
+  /*text-align: right;*/
+
 }
