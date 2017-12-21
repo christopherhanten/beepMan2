@@ -1,5 +1,8 @@
 # beepMan2
 
+NOTE: 'Spindex.html' is an older version of the html page.
+
+
 Beep Man 2 is a javascript-based game to be played in the browser.
 
 This project is hard AF. The things I need to happen in my life, "Everything to click," has not occurred yet. 
